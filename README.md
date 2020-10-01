@@ -31,7 +31,7 @@ Main screen is started. 3 option buttons are provided for loading game, starting
 
 You can look at our implementation here.
 
-[![Watch the video](https://media-private.canva.com/lOrOM/MADssflOrOM/1/thumbnail_large.jpg?response-expires=Tue%2C%2007%20Jul%202020%2018%3A08%3A37%20GMT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200707T155419Z&X-Amz-SignedHeaders=host&X-Amz-Expires=8057&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20200707%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e7d8d1fe97a818129aaae843cd2b77297dac5abe4e62e998907d1b3191cc64ea)](https://drive.google.com/file/d/1XuFZcccqE9WO_PpdtG17yfeSuNzjLnhJ/view?usp=sharing)
+[Watch the video](https://drive.google.com/file/d/1XuFZcccqE9WO_PpdtG17yfeSuNzjLnhJ/view?usp=sharing)
 
 ## Built With
 - Java
